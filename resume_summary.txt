@@ -1,0 +1,1 @@
+**Smart Solar Data Logger (Simulated Project)**: Built an embedded monitoring system using Arduino to detect voltage/current anomalies and simulate LCD output. Firebase integration with ESP32 also implemented for cloud readiness.
